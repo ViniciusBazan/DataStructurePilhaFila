@@ -1,4 +1,4 @@
-# **Estrutura de dados - A3 da Universidade Anehmbi Morumbi**
+# **Estrutura de dados - A3 da Universidade Anhembi Morumbi**
 --------------------------
 ### Enunciado
 --------------------------
