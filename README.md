@@ -24,7 +24,7 @@
 ### Resultados
 
  Os valores apresentados na fila não estavam em ordem, na verdade o resultado final é: **[5, 4, 3, 2, 1, 10, 9, 8, 7, 6]**.
- Isso ocorre por causa da transferencia dos dados entre estruturas de dados, nesse caso a lista se assemelha muito a fila a fila, já que os primeiros dados a chegarem foram os primeiros a sair da estrutura (FIFO), mas esses dados entraram em uma estrutura de pilha, onde o último a entrar é o primeiro a sair (LIFO), logo o número 5 e o número 10 que eram os últimos em ambas as transferencias assumiram uma posição mais próxima do início da fila, já que eles eram o topo das pilhas.
+ Isso ocorre por causa da transferencia dos dados entre estruturas de dados, nesse caso a lista se assemelha muito a fila, já que os primeiros dados a chegarem foram os primeiros a sair da estrutura (FIFO), mas esses dados entraram em uma estrutura de pilha, onde o último a entrar é o primeiro a sair (LIFO), logo o número 5 e o número 10 que eram os últimos em ambas as transferencias assumiram uma posição mais próxima do início da fila, já que eles eram o topo das pilhas.
 
  Executar o programa desse repositório vai permitir que você visualize o passo a passo do que aconteceu ao levar os dados de uma estrutura para outra, você deve obter a seguinte saída:
 
