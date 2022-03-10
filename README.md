@@ -28,39 +28,66 @@
 
  Executar o programa desse repositório vai permitir que você visualize o passo a passo do que aconteceu ao levar os dados de uma estrutura para outra, você deve obter a seguinte saída:
 
- >\>\> Objetos Vazios: 
+ >\>\> Objetos Vazios:
+>  
 >Lista[Capacidade - 5e]: []
+>
 >Pilha[Capacidade - 5e]: []
+>
 >Fila[Capacidade - 10e]: []
+>
 >
 >\>\> Inserindo 5 nº na lista
+>
 >Lista[Capacidade - 5e]: [1, 2, 3, 4, 5]
+>
 >Pilha[Capacidade - 5e]: []
+>
 >Fila[Capacidade - 10e]: []
+>
 >
 >\>\> Incrementando a Pilha e esvaziando a Lista
+>
 >Lista[Capacidade - 5e]: []
+>
 >Pilha[Capacidade - 5e]: [5, 4, 3, 2, 1]
+>
 >Fila[Capacidade - 10e]: []
 >
+>
 >\>\> Incrementando a Fila e esvaziando a Pilha
+>
 >Lista[Capacidade - 5e]: []
+>
 >Pilha[Capacidade - 5e]: []
+>
 >Fila[Capacidade - 10e]: [5, 4, 3, 2, 1]
+>
 >
 >\>\> Inserindo dados na Lista
+>
 >Lista[Capacidade - 5e]: [6, 7, 8, 9, 10]
+>
 >Pilha[Capacidade - 5e]: []
+>
 >Fila[Capacidade - 10e]: [5, 4, 3, 2, 1]
+>
 >
 >\>\> Incrementando a Pilha e esvaziando a Lista
+>
 >Lista[Capacidade - 5e]: []
+>
 >Pilha[Capacidade - 5e]: [10, 9, 8, 7, 6]
+>
 >Fila[Capacidade - 10e]: [5, 4, 3, 2, 1]
 >
+>
 >\>\> Incrementando a Fila e esvaziando a Pilha
+>
 >Lista[Capacidade - 5e]: []
+>
 >Pilha[Capacidade - 5e]: []
+>
 >Fila[Capacidade - 10e]: [5, 4, 3, 2, 1, 10, 9, 8, 7, 6]
 
 -----------------------
